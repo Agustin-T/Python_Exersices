@@ -1,4 +1,6 @@
 # problema #1
+# Dado el valor de los tres lados de un triángulo, 
+# calcular el perímetro del triángulo
 # calculo de perimetro de un triangulo
 
 print('calculo de pedimetro de un triagulo')
