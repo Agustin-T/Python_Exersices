@@ -1,4 +1,4 @@
-#
+__autor__ = 'DEV-121 UTN'
 # La dirección de la carrera de Ingeniería en Sistemas de la UTN Córdoba necesita un 
 # programa que permita cargar el nombre de un estudiante de quinto año, el nombre del profesor 
 # responsable de la Práctica Profesional Supervisada de ese estudiante, y el promedio general (con 
