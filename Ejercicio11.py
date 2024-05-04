@@ -12,11 +12,11 @@ n3 = int(input("> Ingrese el N°3:"))
 # procesos
 if(n1 > n2 and n1 > n3):
     mayor = n1
-if(n2 > n1 and n2 > n3):
+elif(n2 > n3):
     mayor = n2
-if(n3 > n2 and n3 > n1): 
+else:
     mayor = n3
-
+    
 # salidas
 print("El N° mas grande es ",mayor)
 
